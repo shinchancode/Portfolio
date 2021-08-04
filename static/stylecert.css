@@ -1,0 +1,150 @@
+/* CSS Reset */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+/* CSS Variable */
+:root
+{
+    --navbar-height: 60px;
+
+}
+
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+
+/* Certificate Section */
+#achieve
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+#achieve .Item1
+{
+    border: 3px solid brown;
+    margin: 15px 10px;
+    padding: 10px;
+    height: 350px;
+    border-radius: 15px;
+    background-color: #c7c7c7;
+    color: rgb(0, 0, 0);
+}
+
+#achieve .box-content1
+{
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.log p
+{
+    margin-bottom: 40px;
+}
+#achieve .Item1 p,li
+{
+    color: black;
+    font-family: 'Bree Serif', serif;
+}
+#achieve .box-content
+{   
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+#achieve .imgg img
+{
+   height: 65px;
+   display: block;
+   margin: 15px auto;
+}
+.long img
+{
+    display: block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    width: 190px;
+    height: 50px;
+}
+
+#achieve a
+{
+    text-decoration: none;
+}
+
+
+/* Contact ME section */
+
+#connect
+{
+    margin: 15px 0px;
+    font-size: 1.8rem;
+    font-family: 'Merriweather', serif;
+    height: 200px;
+    background-color: rgb(255, 255, 105);
+}
+
+#connect h3
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#connect-box
+{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    justify-content: center;
+}
+
+#connect-box a
+{
+    margin: 20px 15px; 
+}
+#connect-box a img
+{
+    height: 100px;
+}
+
+h3
+{
+    font-family: 'Bree Serif', serif;
+}
+@media only screen and (max-width: 1000px)
+{
+    #achieve
+    {
+        grid-template-columns: 1fr 1fr;
+    }
+    #achieve .Item1
+    {
+        height: 300px;
+    }
+
+    #connect
+    {
+        height: 160px;
+    }
+
+    #connect-box a img
+    {
+        height: 70px;
+    }
+}

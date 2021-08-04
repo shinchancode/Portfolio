@@ -1,0 +1,21 @@
+
+#achieve
+{
+    display: flex;
+    flex-direction: column;
+}
+
+#connect
+{
+    height: 140px;
+}
+
+#connect-box a img
+{
+    height: 50px;
+}
+
+#connect-box a {
+    margin: 10px 5px;
+}
+

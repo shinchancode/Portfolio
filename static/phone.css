@@ -1,0 +1,166 @@
+
+/* Navigation Bar */
+#navbar
+{
+    flex-direction: column;
+}
+#navbar ul li a
+{
+    font-size:15px;
+    padding: 0px 0px;
+    margin: 0px 8px;
+}
+
+#time
+{
+    justify-content: center;
+    align-items: center;
+}
+
+
+#logo0
+{
+    text-align: center;
+
+}
+
+#logo0 img
+{
+    height: 50px;
+}
+
+/* Home Section */
+#home
+{
+    padding: 0px 10px;
+    height: 210px;
+}
+#home::before
+{
+    height: 470px;
+}
+#home p
+{
+    font-size: 10px;
+}
+
+/* Logo */
+#logo0
+{
+    flex-direction: column;
+}
+
+/* Education Section */
+#service
+{
+    flex-direction: column;
+}
+
+#service .box
+{
+    width: 90%;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+/* Experience section */
+#exp
+{
+    flex-direction: column;
+}
+
+#exp .Item
+{
+    margin: 5px auto;
+    padding: 10px;
+    width: 90%;
+    height: 260px;
+}
+/* Project section */
+#prjt
+{
+    display: flex;
+    flex-direction: column;
+}
+
+#prjt .Item1
+{
+    margin: 15px auto;
+    padding: 10px;
+    width: 90%;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+#prjt .Item1 img
+{
+   margin-right: 5px;
+}
+#prjt .box-content
+{  
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+}
+/* Profile */
+#profile
+{
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+#profile::before
+{
+    height: 210px;
+}
+#profile .boxx img
+{
+   height: 80px;
+   width: 70px;
+}
+
+/* Contact Section */
+#contact-box
+{
+    height: auto;
+    padding-bottom: 0px;
+}
+
+#contact-box form
+{
+    width: 80%;
+}
+
+#contact::before
+{
+    height: 460px;
+}
+
+/* Footer It is */
+footer
+{
+    font-size: 0.8rem;
+}
+
+/* utility classes */
+
+.hpri
+{
+    font-size: 1.8rem;
+}
+
+.hpri1
+{
+    font-size: 2rem;
+}
+
+.hsec
+{
+    font-size: 1.2rem;
+    padding: 5px;
+}
+
+#home .hpri
+{
+    font-size: 20px;
+}
