@@ -238,10 +238,12 @@ html
 }
 
 /* Project Section */
+
 #prjt
 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    background-color: #1f1a3e;
 }
 
 #prjt .Item1
