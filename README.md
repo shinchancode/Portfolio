@@ -7,27 +7,27 @@ Implemented my own Resume as Website, Where I added all my projects which I crea
 
 ## [SnapShots in Laptop View](https://aartirathi17.herokuapp.com/)
 ## 1
-![web](https://github.com/shinchancode/personal/blob/master/l1.png)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/l1.png)
 ## 2
-![web](https://github.com/shinchancode/personal/blob/master/l2.png)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/l2.png)
 ## 3
-![web](https://github.com/shinchancode/personal/blob/master/l3.png)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/l3.png)
 ## 4
-![web](https://github.com/shinchancode/personal/blob/master/l4.png)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/l4.png)
 ## 5
-![web](https://github.com/shinchancode/personal/blob/master/l5.png)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/l5.png)
 
 ## [SnapShots in Mobile View](https://aartirathi17.herokuapp.com/)
 ## 1
-![web](https://github.com/shinchancode/personal/blob/master/m1.jpeg)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/m1.jpeg)
 ## 2
-![web](https://github.com/shinchancode/personal/blob/master/m2.jpeg)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/m2.jpeg)
 ## 3
-![web](https://github.com/shinchancode/personal/blob/master/m3.jpeg)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/m3.jpeg)
 ## 4
-![web](https://github.com/shinchancode/personal/blob/master/m4.jpeg)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/m4.jpeg)
 ## 5
-![web](https://github.com/shinchancode/personal/blob/master/m5.jpeg)
+![web](https://github.com/shinchancode/Portfolio/blob/master/Demo%20Images/m5.jpeg)
 
 ### Connect with me:
 
