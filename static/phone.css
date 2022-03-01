@@ -26,21 +26,27 @@
 
 #logo0 img
 {
-    height: 50px;
+    height: 70px;
+}
+#logo0 p
+{
+    font-size: 15px;
 }
 
 /* Home Section */
 #home
 {
     padding: 0px 10px;
-    height: 210px;
+    height: 200px;
 }
+
 #home::before
 {
-    height: 470px;
+    height: 400px;
 }
 #home p
 {
+    display: none;
     font-size: 10px;
 }
 
