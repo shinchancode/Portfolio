@@ -1,9 +1,9 @@
- # [My Website](https://aartirathi17.herokuapp.com/)
+ # [My Website](https://aartirathi17.onrender.com/)
 <b>Created a responsive website frontend and backend using amazing features of CSS, HTML and Javascript.
-Implemented my own Resume as Website, Where I added all my projects which I created till date. I have hosted it thorugh the help of heroku and github. I keep on making changes accordingly.</b>
+Implemented my own Resume as Website, Where I added all my projects which I created till date. I have hosted it thorugh the help of render and github. I will keep on making changes accordingly.</b>
 
 ## View Live Demo
-<pre><center><a href="https://aartirathi17.herokuapp.com/"><b>https://aartirathi17.herokuapp.com/</b></a></center></pre>
+<pre><center><a href="https://aartirathi17.onrender.com/"><b>https://aartirathi17.onrender.com/</b></a></center></pre>
 
 ## Available Scripts
 
